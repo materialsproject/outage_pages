@@ -1,2 +1,2 @@
 # outage_pages
-Error pages for outtages
+Error pages for outages
